@@ -1,18 +1,24 @@
-Hi there 👋
+Hi there!
 
-<!--
-**Anist2k14/Anist2k14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building software, networks, automation and infrastructure with a strong focus on reliability, privacy and long-term maintainability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
-123
+I'm a developer who enjoys security and privacy. Recently started to learn Rust.
+
+### Interests
+
+- 🦀 Rust
+- 🔐 Security & cryptography
+- 🌐 Networking & infrastructure
+- 🖥️ Self-hosting
+- ⚡ High-performance systems
+- 📡 Offline-first architectures
+- 🏠 Automation & monitoring
+
+### Privacy & Security
+Supporter of privacy-focused technologies and open ecosystems
+
+> Brave • Tuta • Briar • Rocky Linux • Bitwarden • Twingate • Zed
