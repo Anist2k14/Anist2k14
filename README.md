@@ -1,12 +1,12 @@
-# Hi there
+Hi there!
 
 Backend developer building software, infrastructure and automation with a strong focus on reliability, security and long-term maintainability.
 
-## About Me
+# About Me
 
 My interest in security and privacy recently led me to start learning Rust 🦀.
 
-### Interests
+## Interests
 
 - Security & cryptography
 - Networking & infrastructure
@@ -15,12 +15,12 @@ My interest in security and privacy recently led me to start learning Rust 🦀.
 - On-premise / offline-first architectures
 - Automation & monitoring
 
-### Privacy & Security
+## Privacy & Security
 > Supporter of privacy-focused technologies and open ecosystems.
 
 Brave • Tuta • Briar • Rocky Linux • Bitwarden • Twingate • Zed
 
-### Dev Tools
+## Dev Tools
 
 - **IDE**: Zed
 - **Languages**: JavaScript (Node.js), Rust, C#, SQL
