@@ -20,17 +20,8 @@ My interest in security and privacy recently led me to start learning Rust 🦀.
 
 Brave • Tuta • Briar • Rocky Linux • Bitwarden • Twingate • Zed
 
-## Dev Tools
+### Dev Tools
 
-### IDE
-Zed
-
----
-### Languages
-JavaScript (Node.js) • Rust • C# • SQL
-
----
-### Infrastructure
-Azure • GitHub Actions • DigitalOcean • Cloudflare
-
----
+**IDE**: Zed
+**Languages**: JavaScript (Node.js), Rust, C#, SQL
+**Infrastructure**: Azure, GitHub Actions, DigitalOcean, Cloudflare
